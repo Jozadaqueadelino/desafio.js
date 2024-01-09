@@ -12,9 +12,9 @@ class personagem {
         let ataque;
 
         switch (this.tipo){
-            case "mago":
+            case " mago ":
 
-            ataque = "usou magia";
+            ataque = " usou magia ";
             break;
 
             
